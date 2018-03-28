@@ -11,7 +11,7 @@ tbody tr:nth-child(odd) {
 }
 
 tfoot {
-  font:bold;
+  font: bold;
 }
 
 .year {
@@ -27,7 +27,7 @@ tfoot {
 }
 
 table {
-  min-width: 50em
+  min-width: 50em;
 }
 
 @media only screen and (min-width: 60em) {
@@ -35,4 +35,5 @@ table {
   .table-wrapper {
     overflow: visible;
   }
+
 }
